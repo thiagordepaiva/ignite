@@ -28,3 +28,9 @@ npx prisma studio
 ```bash
 npx prisma generate
 ```
+
+## Executar o Seed no Banco 
+-Criação de registro ficticios para auxilio em teste de implementações, dentro do diretorio ./prisma/seed.ts
+```bash
+npx prisma db seed
+```
