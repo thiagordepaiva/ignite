@@ -5,7 +5,7 @@ npm i
 
 ## Subindo Servidor BackEnd
 ```bash
-npx run dev
+npm run dev
 ```
 
 ## Criando uma migration
